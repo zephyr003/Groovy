@@ -1,6 +1,6 @@
 # music_player
 
-A new Flutter project.
+A new Flutter project. UI for a music player.
 
 ## Getting Started
 
